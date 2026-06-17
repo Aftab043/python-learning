@@ -17,3 +17,14 @@ movie.append(movie3)
 
 # Print the final list of favorite movies
 print(movie)
+
+# Create another empty list for the same task
+movie = []
+
+# Take input from the user and add each movie directly to the list
+movie.append(input("enter 1st movie name :"))
+movie.append(input("enter 2st movie name :"))
+movie.append(input("enter 3st movie name :"))
+
+# Print the list of movies
+print(movie)
