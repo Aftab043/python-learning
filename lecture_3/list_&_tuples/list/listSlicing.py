@@ -1,0 +1,5 @@
+marks = [87,54,6,2,4,2,24,65,32]
+print(marks[1 : 4]) # is [54, 6, 2]
+print(marks[  : 4]) # is [87, 54, 6, 2]
+print(marks[1 : 4]) # is [54, 6, 2]
+print(marks[-4 : -1]) # is [2,24,65]
